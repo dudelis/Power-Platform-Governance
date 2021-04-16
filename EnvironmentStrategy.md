@@ -15,6 +15,8 @@ TBD
 
 ## Environment Lifecycle
 - Who can create environments?
+- Where can the environment be created?
+- What are the base settings for environment creation?
 - How can a user request an environment?
 - How do you decide, if a user needs and environment?
 - When should the environment be deleted?
