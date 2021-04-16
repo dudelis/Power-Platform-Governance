@@ -38,3 +38,9 @@
 - What should the users do when they need a specific connector to be enabled?
 - What is the internal process to review such requests?
 - How often are the Policies reviewed?
+
+## Dataverse for Teams
+- When should it be used?
+- What are the limitations for 
+- What are typical use cases?
+- 
