@@ -10,6 +10,9 @@
 - Who can create Trial and/or Production Environments?
 - What are your environment drivers (per application, per team. per department, per geographic location etc.)?
 
+## Licensing
+TBD
+
 ## Environment Lifecycle
 - Who can create environments?
 - How can a user request an environment?
