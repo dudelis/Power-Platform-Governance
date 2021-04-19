@@ -15,7 +15,7 @@
     - How do you collect the data and maintain the list of such applications?
     - How does the applicaiton type define/affect the applicaiton lifecycle?
     - How do you monitor each application type?
-- What is the process to delete/archive applications?
+- What is the process to delete/archive/retire applications?
 - What is the process to move the reference data between environments?
 
 
@@ -48,4 +48,12 @@
 - Are new licenses and/or add-ons to be acquired and assigned?
 
 ## Delete/Archive Existing Application
-
+- Do all users know about the retirement of the application?
+- Do users still use the application?
+- Have you removed access of all the users from the application (a good step to start with)
+- Are you going to delete the Application or the environment as well?
+- Did you archive all the necessary application data?
+- Are the application components are shared with other applications?
+- Are the connections you are going to remove used within other applications?
+- Are custom connectors used for other applications?
+- Are you removing managed OR unmanaged solution?

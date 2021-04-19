@@ -16,7 +16,7 @@
 
 ## Environment Lifecycle
 - Who can create environments?
-- Where can the environment be created?
+- Where can the environment be created (geographic location)?
 - What are the base settings for environment creation?
 - How can a user request an environment?
 - How do you decide, if a user needs and environment?
