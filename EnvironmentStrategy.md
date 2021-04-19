@@ -1,6 +1,5 @@
 # Environment Strategy
 
-
 ## Overview
 - How do you use your Default Environment?
 - What other types of environments do you have?
@@ -11,7 +10,9 @@
 - What are your environment drivers (per application, per team. per department, per geographic location etc.)?
 
 ## Licensing
-TBD
+- What is the general licensing policy for Power Platform in BASF?
+- How can a user request a license?
+- How can a user request an add-on?
 
 ## Environment Lifecycle
 - Who can create environments?
@@ -40,7 +41,7 @@ TBD
 - Which global Data Loss Prevention Policies are created?
 - What is the default Data Loss Prevention policy for newly created environments?
 - How are different Data Loss Prevention Policies applied to each environment type?
-- Which connectors are allowed for each environment types?
+- Which connectors are allowed for each environment type?
 - How are the exceptions handled?
 - What is the process to request a specific connector?
 - How are custom connectors covered by the Data Loss Prevention Policies?
