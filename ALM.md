@@ -15,6 +15,8 @@
     - How do you collect the data and maintain the list of such applications?
     - How does the applicaiton type define/affect the applicaiton lifecycle?
     - How do you monitor each application type?
+- What is the process to delete/archive applications?
+- What is the process to move the reference data between environments?
 
 
 **Below you can find a list of questions you might need to ask, when working with the Application Lifecycle**
@@ -45,4 +47,5 @@
 - Is the existing Dataverse data affected?
 - Are new licenses and/or add-ons to be acquired and assigned?
 
+## Delete/Archive Existing Application
 
