@@ -10,7 +10,7 @@
 - What are your environment drivers (per application, per team. per department, per geographic location etc.)?
 
 ## Licensing
-- What is the general licensing policy for Power Platform in BASF?
+- What is the general licensing policy for Power Platform in your company?
 - How can a user request a license?
 - How can a user request an add-on?
 
